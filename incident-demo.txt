@@ -1,1 +1,2 @@
 Application configuration - no credentials present.
+SIMULATED_HARDCODED_CREDENTIAL = FAKE_VALUE_FOR_LAB_ONLY
